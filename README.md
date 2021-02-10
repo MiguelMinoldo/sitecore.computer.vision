@@ -1,1 +1,1 @@
-# sitecore..computer.vision
+# sitecore.computer.vision

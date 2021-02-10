@@ -1,0 +1,1 @@
+# Sitecore Computer Vision - Cropping Image Field

@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Sitecore.Computer.Vision.CroppingImageField/config
+/.vs/Sitecore.Computer.Vision.CroppingImageField/v16/Server/sqlite3
+/Sitecore.Computer.Vision.CroppingImageField/bin
+/Sitecore.Computer.Vision.CroppingImageField/obj
+/.vs/Sitecore.Computer.Vision.CroppingImageField/v16/.suo
+/packages

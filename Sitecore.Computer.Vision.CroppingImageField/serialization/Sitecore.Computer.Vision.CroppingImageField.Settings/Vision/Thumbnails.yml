@@ -1,0 +1,14 @@
+﻿---
+ID: "c3ec5bf1-2182-40ab-aee7-b2ae3c292620"
+Parent: "85b4d12e-e358-44c9-bf8d-3c99077bffe7"
+Template: "e6d8a8df-f8f7-4b90-bff9-76cfee745cc7"
+Path: /sitecore/system/Settings/Foundation/Vision/Thumbnails
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210205T143617Z
